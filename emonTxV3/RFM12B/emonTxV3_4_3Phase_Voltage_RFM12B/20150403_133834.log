@@ -1,0 +1,81 @@
+emonTx V3.4 CT1234 Voltage 3 Phase example
+OpenEnergyMonitor.org
+Node: 10 Freq: 433MHz Network: 210
+Voltage: 234.87
+ Phase 1: 0.25 A, -3.43 W, 58.05 VA, PF=-0.06
+ Phase 2: 0.78 A, 3.93 W, 183.88 VA, PF=0.02
+ Phase 3: 1.58 A, 6.69 W, 371.47 VA, PF=0.02
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.39
+ Phase 1: 8.37 A, 1879.80 W, 1894.68 VA, PF=0.99
+ Phase 2: 8.31 A, -938.00 W, 1881.16 VA, PF=-0.50
+ Phase 3: 8.42 A, -956.80 W, 1906.86 VA, PF=-0.50
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.34
+ Phase 1: 8.28 A, 1859.32 W, 1874.27 VA, PF=0.99
+ Phase 2: 8.20 A, -940.03 W, 1856.33 VA, PF=-0.51
+ Phase 3: 8.31 A, -935.85 W, 1880.62 VA, PF=-0.50
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.50
+ Phase 1: 8.22 A, 1846.19 W, 1860.77 VA, PF=0.99
+ Phase 2: 8.15 A, -933.84 W, 1844.88 VA, PF=-0.51
+ Phase 3: 8.24 A, -926.17 W, 1865.68 VA, PF=-0.50
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.53
+ Phase 1: 8.16 A, 1834.04 W, 1848.49 VA, PF=0.99
+ Phase 2: 8.09 A, -930.99 W, 1833.36 VA, PF=-0.51
+ Phase 3: 8.19 A, -918.96 W, 1856.11 VA, PF=-0.50
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.39
+ Phase 1: 8.12 A, 1825.09 W, 1839.39 VA, PF=0.99
+ Phase 2: 8.05 A, -927.96 W, 1823.49 VA, PF=-0.51
+ Phase 3: 8.16 A, -912.52 W, 1848.31 VA, PF=-0.49
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.33
+ Phase 1: 8.12 A, 1823.74 W, 1837.75 VA, PF=0.99
+ Phase 2: 8.04 A, -925.30 W, 1820.50 VA, PF=-0.51
+ Phase 3: 8.14 A, -907.65 W, 1841.45 VA, PF=-0.49
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.60
+ Phase 1: 8.11 A, 1822.95 W, 1836.86 VA, PF=0.99
+ Phase 2: 8.04 A, -919.62 W, 1821.31 VA, PF=-0.50
+ Phase 3: 8.14 A, -908.94 W, 1844.91 VA, PF=-0.49
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.27
+ Phase 1: 8.09 A, 1816.09 W, 1829.62 VA, PF=0.99
+ Phase 2: 8.03 A, -924.53 W, 1816.05 VA, PF=-0.51
+ Phase 3: 8.13 A, -899.84 W, 1838.58 VA, PF=-0.49
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.43
+ Phase 1: 8.09 A, 1819.09 W, 1832.81 VA, PF=0.99
+ Phase 2: 8.03 A, -924.78 W, 1819.30 VA, PF=-0.51
+ Phase 3: 8.13 A, -902.39 W, 1840.23 VA, PF=-0.49
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.49
+ Phase 1: 8.10 A, 1820.83 W, 1833.93 VA, PF=0.99
+ Phase 2: 8.03 A, -925.47 W, 1818.38 VA, PF=-0.51
+ Phase 3: 8.12 A, -899.77 W, 1838.00 VA, PF=-0.49
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 226.45
+ Phase 1: 8.10 A, 1820.59 W, 1834.18 VA, PF=0.99
+ Phase 2: 8.02 A, -926.46 W, 1816.89 VA, PF=-0.51
+ Phase 3: 8.13 A, -901.33 W, 1841.12 VA, PF=-0.49
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
+Voltage: 235.36
+ Phase 1: 0.22 A, 1.79 W, 52.30 VA, PF=0.03
+ Phase 2: 0.19 A, 2.78 W, 45.22 VA, PF=0.06
+ Phase 3: 0.35 A, 3.12 W, 82.29 VA, PF=0.04
+ Input 4: 0.00 A, 0.00 W, 0.00 VA, PF=nan
+
